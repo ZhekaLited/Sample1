@@ -1,4 +1,4 @@
-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
+
 
 
 git remote set-url origin https://ZhekaLited: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
@@ -13,8 +13,8 @@ git remote set-url origin https://ZhekaLited:ghp_QdknrIJTlXHl5Frm0jUFT6tqMawB8H2
 
 
 
-git remote set-url origin 
-https://KirillovItstep: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@github.com/KirillovItstep/sample3.git
+   git remote set-url origin 
+   https://KirillovItstep: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@github.com/KirillovItstep/sample3.git
 
-git remote -v
-git push --set-upstream origin master
+   git remote -v
+    git push --set-upstream origin master
